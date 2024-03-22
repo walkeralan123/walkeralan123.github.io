@@ -40,12 +40,17 @@ $^\dagger$: equal contribution, $^*$: corresponding author
 
 
 # 🏆 Competition Awards
-
+- *2023.10* First Prize. RoboCup China Open.
+- *2023.08* First Prize. China Students Service Outsourcing Innovation and Entrepreneurship Competition.
+- *2023.07* First Place. RoboCup 2023 Agent Simulation(**world championship**) 
 
 # 🎖 Scholarships and Honors
-- *2023.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.10* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-
+- *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2023.10* Guangyun Technology Scholarship (Award Rate: 20/61781=0.1%, 20 candidates per year in CSU) *Central South University & Guangyun Technologies Co., Ltd.*
+- *2022.12* RUI wei Scholarship (Award Rate: 40/61781=0.1%, 40 candidates per year in CSU) *Central South University*
+- *2023.12,2022.12* Top-Class Scholarship (Award Rate: 1% department-wide) *Central South University*
+  
 # 📖 Educations
 - *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, China. Majoring in Software Engineering. 
 

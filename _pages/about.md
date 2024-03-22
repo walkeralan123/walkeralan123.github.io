@@ -23,7 +23,7 @@ My name is Yishuo Cai (蔡艺硕), I'm currently a junior undergraduate student 
 
 My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models.During my undergraduate study, I also enjoyed a great time conducting research on Crowd Sensing(focus on exploring privacy preservation and incentive mechanisms in mobile crowd sensing).
 
-I have won the National Scholarship (0.2% national-wide) 2 times.
+I have won the National Scholarship (0.2% national-wide) **2** times.
 
 🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 

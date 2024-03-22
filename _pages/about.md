@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Yishuo Cai (蔡艺硕), I'm currently a junior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking 1/197, pursuing a B.E. degree in Software Engineering.
+My name is Yishuo Cai (蔡艺硕), I'm currently a junior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering.
 
 My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models.During my undergraduate study, I also enjoyed a great time conducting research on Crowd Sensing(focus on exploring privacy preservation and incentive mechanisms in mobile crowd sensing).
 

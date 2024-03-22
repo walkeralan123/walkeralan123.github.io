@@ -30,26 +30,28 @@ I have won the National Scholarship (0.2% national-wide) 2 times.
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
-
+- *2024.02*: One paper is accepted by CVPR 2024.
 
 # 📝 Publications 
 
 $^\dagger$: equal contribution, $^*$: corresponding author
-
+- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
+Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
+*The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
 <!-- ## 🖨️ Preprints & In Submission -->
 
 
 # 🏆 Competition Awards
-- *2023.10* First Prize. RoboCup China Open.
-- *2023.08* First Prize. China Students Service Outsourcing Innovation and Entrepreneurship Competition.
-- *2023.07* First Place. RoboCup 2023 Agent Simulation(**world championship**) 
+- *2023.10* **First Prize**. RoboCup China Open.
+- *2023.08* **First Prize**. China Students Service Outsourcing Innovation and Entrepreneurship Competition.
+- *2023.07* **First Place**. RoboCup 2023 Agent Simulation(**world championship**) 
 
 # 🎖 Scholarships and Honors
 - *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2022.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2023.10* Guangyun Technology Scholarship (Award Rate: 20/61781=0.1%, 20 candidates per year in CSU) *Central South University & Guangyun Technologies Co., Ltd.*
-- *2022.12* RUI wei Scholarship (Award Rate: 40/61781=0.1%, 40 candidates per year in CSU) *Central South University*
-- *2023.12,2022.12* Top-Class Scholarship (Award Rate: 1% department-wide) *Central South University*
+- *2023.10* **Guangyun Technology Scholarship** (Award Rate: 20/61781=0.1%, 20 candidates per year in CSU) *Central South University & Guangyun Technologies Co., Ltd.*
+- *2022.12* **RUI wei Scholarship** (Award Rate: 40/61781=0.1%, 40 candidates per year in CSU) *Central South University*
+- *2023.12,2022.12* **Top-Class Scholarship** (Award Rate: 1% department-wide) *Central South University*
   
 # 📖 Educations
 - *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, China. Majoring in Software Engineering. 

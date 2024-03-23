@@ -38,6 +38,7 @@ $^\dagger$: equal contribution, $^*$: corresponding author
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
+Other 2 papers have currently been submitted to CCF-A tier conferences/journals.
 <!-- ## 🖨️ Preprints & In Submission -->
 
 

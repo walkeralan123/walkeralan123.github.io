@@ -1,4 +1,4 @@
----
+![image](https://github.com/walkeralan123/walkeralan123.github.io/assets/112382342/f7c40c7b-e12d-4e0d-8ae5-318dd5b3f53b)---
 permalink: /
 title: ""
 excerpt: ""
@@ -21,11 +21,11 @@ Hi there 👋👋 !
 
 My name is Yishuo Cai (蔡艺硕), I'm currently a junior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering.
 
-My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models.During my undergraduate study, I also enjoyed a great time conducting research on Crowd Sensing(focus on exploring privacy preservation and incentive mechanisms in mobile crowd sensing).
+My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Backdoor Attack) and their countermeasures. I have also conducted explorations in LLM security (such as Jailbreak, Authorship, etc.). During my undergraduate study, I also enjoyed a great time conducting research on Crowd Sensing(focus on exploring privacy preservation and incentive mechanisms in mobile crowd sensing).
 
 I have won the National Scholarship (0.2% national-wide) **2** times.
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Trustworthy Machine Learning or LLM Security. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
@@ -42,6 +42,9 @@ Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, R
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
+- [A Quality-enabled Bilateral Location PrivacyPreserving Service Construction Scheme in Mobile Crowd Sensing](https://www.computer.org/csdl/journal/sc/5555/01/10552406/1XFnHDg7vKU)   
+Jianheng Tang, Yishuo Cai, Saiqin Long, Yirui Shen, Kejia Fan, Zhetao Li, Qingyong Deng, Anfeng Liu   
+*The IEEE Transactions on Services Computing (TSC), CCF-A tier journal*
 
 <!-- ## 🖨️ Preprints & In Submission -->
 

@@ -1,12 +1,3 @@
-![image](https://github.com/walkeralan123/walkeralan123.github.io/assets/112382342/f7c40c7b-e12d-4e0d-8ae5-318dd5b3f53b)---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -42,7 +33,7 @@ Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, R
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
-- [A Quality-enabled Bilateral Location PrivacyPreserving Service Construction Scheme in Mobile Crowd Sensing]()   
+- [A Quality-enabled Bilateral Location PrivacyPreserving Service Construction Scheme in Mobile Crowd Sensing](https://www.computer.org/csdl/journal/sc/5555/01/10552406/1XFnHDg7vKU)   
 Jianheng Tang, Yishuo Cai, Saiqin Long, Yirui Shen, Kejia Fan, Zhetao Li, Qingyong Deng, Anfeng Liu   
 *The IEEE Transactions on Services Computing (TSC), CCF-A tier journal*
 

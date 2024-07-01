@@ -34,12 +34,12 @@ I have won the National Scholarship (0.2% national-wide) **2** times.
 
 # 📝 Publications 
 
-$^\dagger$: equal contribution, $^*$: corresponding author
+$^\dagger$: equal contribution
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/forum?id=CEfr3h68KU&referrer=%5Bthe%20profile%20of%20Boheng%20Li%5D(%2Fprofile%3Fid%3D~Boheng_Li1))   
-Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li$^*$, Han Qiu, Run Wang, Tianwei Zhang   
+Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
-Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li$^*$   
+Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
 
 <!-- ## 🖨️ Preprints & In Submission -->

@@ -30,6 +30,7 @@ I have won the National Scholarship (0.2% national-wide) **2** times.
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+- *2024.05*: One paper is accepted by ICML 2024.
 - *2024.02*: One paper is accepted by CVPR 2024.
 
 # 📝 Publications 

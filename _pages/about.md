@@ -35,7 +35,7 @@ I have won the National Scholarship (0.2% national-wide) **2** times.
 # 📝 Publications 
 
 $^\dagger$: equal contribution, $^*$: corresponding author
-- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks]()   
+- [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li   
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024 (To Appear)*
 

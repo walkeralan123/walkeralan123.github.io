@@ -36,6 +36,9 @@ I have won the National Scholarship (0.2% national-wide) **2** times.
 # 📝 Publications 
 
 $^\dagger$: equal contribution
+- [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
+Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu
+*arxiv*  
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/forum?id=CEfr3h68KU)   
 Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
@@ -43,10 +46,8 @@ Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, R
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
 
-<!-- ## 🖨️ Preprints & In Submission -->
-- [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
-Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu
-*arxiv*  
+<!-- # 🖨️ Preprints & In Submission -->
+
 
 # 🏆 Competition Awards
 - *2023.10* **First Prize**. RoboCup China Open.

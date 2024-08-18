@@ -42,12 +42,11 @@ Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, R
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
-- [Q-BLPP: A Quality-Enabled Bilateral Location Privacy-Preserving Service Construction Scheme in Mobile Crowd Sensing](https://www.computer.org/csdl/journal/sc/5555/01/10552406/1XFnHDg7vKU)   
-Jianheng Tang, **Yishuo Cai**, Saiqin Long, Yirui Shen, Kejia Fan, Zhetao Li, Qingyong Deng, Anfeng Liu   
-*The IEEE Transactions on Services Computing (TSC), CCF-A tier journal*
 
 <!-- ## 🖨️ Preprints & In Submission -->
-
+- [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
+Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu
+*arxiv*  
 
 # 🏆 Competition Awards
 - *2023.10* **First Prize**. RoboCup China Open.

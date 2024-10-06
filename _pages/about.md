@@ -19,17 +19,23 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Yishuo Cai (蔡艺硕), I'm currently a junior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering.
+My name is Yishuo Cai (蔡艺硕), I'm currently a senior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering. Now, I am an incoming Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [**Peking University (PKU)**]
 
-My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Backdoor Attack) and their countermeasures. I have also conducted explorations in LLM security (such as Jailbreak, Authorship, etc.). During my undergraduate study, I also enjoyed a great time conducting research on Crowd Sensing(focus on exploring privacy preservation and incentive mechanisms in mobile crowd sensing).
+Previously, I explored research in Trustworthy AI, with a focus on:
 
-I have won the National Scholarship (0.2% national-wide) **2** times.
+- Evaluation, Safety aspects of large language models (LLMs) (published at *EMNLP'24*) 
+- Backdoor attacks in real-world scenarios like model quantization (published at *ICML'24* and *CVPR'24*)
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Trustworthy Machine Learning or LLM Security. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+My current research interests focus on Multimodal LLM, Generative AI, etc. **I am eager to conduct impactful research with a broad scope, not limited solely to Trustworthy AI.**
+
+I have won the National Scholarship (0.2% national-wide) **3** times.
+
+🌟🌟 I'm currently actively seeking for Research Assistant, or internship positions related to Trustworthy Machine Learning or LLM Security. I'm also open to any possible discussions or collaborate opportunities. please feel free to contact me for further discussion and potential collaboration!
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
+- *2024.10*: One paper is accepted by EMNLP 2024.
 - *2024.05*: One paper is accepted by ICML 2024.
 - *2024.02*: One paper is accepted by CVPR 2024.
 
@@ -38,7 +44,7 @@ I have won the National Scholarship (0.2% national-wide) **2** times.
 $^\dagger$: equal contribution
 - [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
 Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu
-*Preprint*  
+*Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track (EMNLP-Industry), 2024*  
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/forum?id=CEfr3h68KU)   
 Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
@@ -62,7 +68,8 @@ Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
 - *2023.12,2022.12* **Top-Class Scholarship** (Award Rate: 1% department-wide) *Central South University*
   
 # 📖 Educations
-- *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, China. Majoring in Software Engineering. 
+- *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, China. Majoring in Software Engineering.
+- *2025.09 (expected) – 2030.07 (expected)*, Ph.D. candidate, School of Computer Science, Peking University, Beijing, China.
 
 
 <!-- # 💻 Internships

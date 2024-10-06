@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋👋 !
 
-My name is Yishuo Cai (蔡艺硕), I'm currently a senior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering. Now, I am an incoming Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [**Peking University (PKU)**]
+My name is Yishuo Cai (蔡艺硕), I'm currently a senior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering. Now, I am an incoming Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [**Peking University (PKU)**](https://www.pku.edu.cn/)
 
 Previously, I explored research in Trustworthy AI, with a focus on:
 

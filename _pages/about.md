@@ -30,7 +30,7 @@ My current research interests focus on Multimodal LLM, Generative AI, etc. **I a
 
 I have won the National Scholarship (0.2% national-wide) **3** times.
 
-🌟🌟 I'm currently actively seeking for Research Assistant, or internship positions related to Trustworthy Machine Learning or LLM Security. I'm also open to any possible discussions or collaborate opportunities. please feel free to contact me for further discussion and potential collaboration!
+🌟🌟 I'm currently actively seeking for Research Assistant, or internship positions related to any of the above topics. I'm also open to any possible discussions or collaborate opportunities. please feel free to contact me for further discussion and potential collaboration!
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
@@ -61,14 +61,13 @@ Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
 - *2023.07* **First Place**. RoboCup 2023 Agent Simulation(**world championship**) 
 
 # 🎖 Scholarships and Honors
-- *2023.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.12* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022, 2023, 2024* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2023.10* **Guangyun Technology Scholarship** (Award Rate: 20/61781=0.1%, 20 candidates per year in CSU) *Central South University & Guangyun Technologies Co., Ltd.*
 - *2022.12* **RUI wei Scholarship** (Award Rate: 40/61781=0.1%, 40 candidates per year in CSU) *Central South University*
 - *2023.12,2022.12* **Top-Class Scholarship** (Award Rate: 1% department-wide) *Central South University*
   
 # 📖 Educations
-- *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, China. Majoring in Software Engineering.
+- *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Software Engineering.
 - *2025.09 (expected) – 2030.07 (expected)*, Ph.D. candidate, School of Computer Science, Peking University, Beijing, China.
 
 

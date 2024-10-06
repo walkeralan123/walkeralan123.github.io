@@ -21,7 +21,7 @@ Hi there 👋👋 !
 
 My name is Yishuo Cai (蔡艺硕), I'm currently a senior undergraduate student at the [School of Computer Science and Engineering (CSE)](https://cse.csu.edu.cn/), [Central South University (CSU)](https://www.csu.edu.cn/) with GPA ranking **1/197**, pursuing a B.E. degree in Software Engineering. Now, I am an incoming Ph.D. candidate at the [School of Computer Science](https://cs.pku.edu.cn/), [**Peking University (PKU)**](https://www.pku.edu.cn/)
 
-Previously, I explored research in Trustworthy AI, with a focus on:
+Previously, I explored research in multiple areas, particularly in Trustworthy AI, with a focus:
 
 - Evaluation, Safety aspects of large language models (LLMs) (published at *EMNLP'24*) 
 - Backdoor attacks in real-world scenarios like model quantization (published at *ICML'24* and *CVPR'24*)
@@ -44,13 +44,19 @@ I have won the National Scholarship (0.2% national-wide) **3** times.
 $^\dagger$: equal contribution
 - [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
 Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu
-*Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track (EMNLP-Industry), 2024*  
+*Empirical Methods in Natural Language Processing: Industry Track (EMNLP-Industry), 2024*  
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/forum?id=CEfr3h68KU)   
 Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
+- [FGITrans: Cross-City Transformer for Fine-grained Urban Flow Inference](https://walkeralan123.github.io/)  
+Yuhao Zheng$^\dagger$, **Yishuo Cai$^\dagger$**, Zihao Cai, Changjun Fan, Senzhang Wang, Jianxin Wang  
+*Conference on Information and Knowledge Management (CIKM), 2024*
+- [Q-BLPP: A Quality-enabled Bilateral Location Privacy-Preserving Service Construction Scheme in Mobile Crowd Sensing](https://www.computer.org/csdl/journal/sc/5555/01/10552406/1XFnHDg7vKU)  
+  Jianheng Tang, **Yishuo Cai**, Saiqin Long, Yirui Shen, Kejia Fan, Zhetao Li, Qingyong Deng, Anfeng Liu  
+  *IEEE Transactions on Services Computing (CCF-A tier Journal)*
 
 <!-- # 🖨️ Preprints & In Submission -->
 

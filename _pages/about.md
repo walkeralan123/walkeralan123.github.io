@@ -41,10 +41,10 @@ I have won the National Scholarship (0.2% national-wide) **3** times.
 
 # 📝 Publications 
 
-$^\dagger$: equal contribution
+$^\dagger$: equal contribution, co-first author
 - [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
-Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu
-*Empirical Methods in Natural Language Processing: Industry Track (EMNLP-Industry), 2024*  
+Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu  
+*Empirical Methods in Natural Language Processing: Industry Track (EMNLP-Industry), 2024*
 - [Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation](https://openreview.net/forum?id=CEfr3h68KU)   
 Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, Run Wang, Tianwei Zhang   
 *The International Conference on Machine Learning (ICML), 2024*
@@ -67,10 +67,10 @@ Yuhao Zheng$^\dagger$, **Yishuo Cai$^\dagger$**, Zihao Cai, Changjun Fan, Senzha
 - *2023.07* **First Place**. RoboCup 2023 Agent Simulation(**world championship**) 
 
 # 🎖 Scholarships and Honors
-- *2022, 2023, 2024* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2024, 2023, 2022* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
 - *2023.10* **Guangyun Technology Scholarship** (Award Rate: 20/61781=0.1%, 20 candidates per year in CSU) *Central South University & Guangyun Technologies Co., Ltd.*
 - *2022.12* **RUI wei Scholarship** (Award Rate: 40/61781=0.1%, 40 candidates per year in CSU) *Central South University*
-- *2023.12,2022.12* **Top-Class Scholarship** (Award Rate: 1% department-wide) *Central South University*
+- *2024, 2023, 2022* **Top-Class Scholarship** (Award Rate: 1% department-wide) *Central South University*
   
 # 📖 Educations
 - *2021.09 - Now*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Software Engineering.

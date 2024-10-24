@@ -51,17 +51,6 @@ Boheng Li$^\dagger$, **Yishuo Cai$^\dagger$**, Jisong Cai, Yiming Li, Han Qiu, R
 - [Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks](https://arxiv.org/abs/2405.12725)   
 Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li  
 *The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024*
-<details>
-  <summary>More</summary>
-
-- [FGITrans: Cross-City Transformer for Fine-grained Urban Flow Inference](https://walkeralan123.github.io/)  
-Yuhao Zheng$^\dagger$, **Yishuo Cai$^\dagger$**, Zihao Cai, Changjun Fan, Senzhang Wang, Jianxin Wang  
-*Conference on Information and Knowledge Management (CIKM), 2024*
-- [Q-BLPP: A Quality-enabled Bilateral Location Privacy-Preserving Service Construction Scheme in Mobile Crowd Sensing](https://www.computer.org/csdl/journal/sc/5555/01/10552406/1XFnHDg7vKU)  
-Jianheng Tang, **Yishuo Cai**, Saiqin Long, Yirui Shen, Kejia Fan, Zhetao Li, Qingyong Deng, Anfeng Liu  
-*IEEE Transactions on Services Computing (CCF-A tier Journal)*
-
-</details>
 
 
 <!-- # 🖨️ Preprints & In Submission -->

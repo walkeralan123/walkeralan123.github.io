@@ -75,6 +75,5 @@ Boheng Li, **Yishuo Cai**, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
 <!-- # 💻 Internships
 To be updated. -->
 
-<!-- # 🔗 Useful Links
 
 

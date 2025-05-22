@@ -43,7 +43,7 @@ I have won the National Scholarship (0.2% national-wide) **3** times.
 # 📝 Publications 
 
 $^\dagger$: equal contribution, co-first author
-- [MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors](walkeralan123.github.io)   
+- [MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors](https://walkeralan123.github.io/)   
 **Yishuo Cai$^\dagger$**, Renjie Gu$^\dagger$, Jiaxu Li, Xuancheng Huang, Junzhe Chen, Xiaotao Gu, Minlie Huang
 *Association for Computational Linguistics: Findings (ACL-Findings), 2025*
 - [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   

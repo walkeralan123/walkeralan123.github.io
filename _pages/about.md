@@ -35,6 +35,7 @@ I have won the National Scholarship (0.2% national-wide) **3** times.
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/).  -->
 
 # 🔥 News
+- *2025.05*: One paper is accepted by ACL 2025.
 - *2024.10*: One paper is accepted by EMNLP 2024.
 - *2024.05*: One paper is accepted by ICML 2024.
 - *2024.02*: One paper is accepted by CVPR 2024.
@@ -42,6 +43,9 @@ I have won the National Scholarship (0.2% national-wide) **3** times.
 # 📝 Publications 
 
 $^\dagger$: equal contribution, co-first author
+- [MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors]
+Yishuo Cai, Renjie Gu, Jiaxu Li, Xuancheng Huang, Junzhe Chen, Xiaotao Gu, Minlie Huang
+*Association for Computational Linguistics: Findings (ACL-Findings), 2025*
 - [Course-Correction: Safety Alignment Using Synthetic Preferences](https://arxiv.org/abs/2407.16637)   
 Rongwu Xu$^\dagger$, **Yishuo Cai$^\dagger$**, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, Han Qiu  
 *Empirical Methods in Natural Language Processing: Industry Track (EMNLP-Industry), 2024*

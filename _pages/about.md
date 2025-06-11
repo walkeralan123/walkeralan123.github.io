@@ -40,7 +40,7 @@ I have won the National Scholarship (0.2% national-wide) **3** times.
 - *2024.05*: One paper is accepted by ICML 2024.
 - *2024.02*: One paper is accepted by CVPR 2024.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 $^\dagger$: equal contribution, co-first author
 - [MHALO: Evaluating MLLMs as Fine-grained Hallucination Detectors](https://walkeralan123.github.io/)   
